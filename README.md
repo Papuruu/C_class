@@ -1,2 +1,2 @@
-# C_class
+# c_class
 for c programming
