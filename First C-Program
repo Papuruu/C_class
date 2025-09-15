@@ -1,0 +1,10 @@
+// ID: 202512469
+// Name: Muhammad Tsaqif Mufianto
+
+#include <stdio.h>
+
+int main(void) {
+
+    printf("Hello, world!\n");
+    return 0;
+}
